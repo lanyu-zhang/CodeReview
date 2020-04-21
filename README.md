@@ -1,6 +1,6 @@
 # Congress Analysis
 
-##Data Summary
+## Data Summary
 
 The file Congress99.RData contains voting data from the US Congress from 1999. It contains the following columns:
 year, 
@@ -23,7 +23,7 @@ Arrange the voting data in a table, so that in each row you will have one member
 **Note that one issue may be split into multiple votes (rolls).**
 **Also note that votes may be Yea, Nay, but also may no-vote. You have to account for all, not just the yes/no votes.**
 
-##This project is to answer the following questions:
+## This project is to answer the following questions:
 1. How many representatives does each party have in the 1999 Congress?
 2. How many representatives does each party have in each state?
 3. What is the propensity of each member to vote by party lines? That is, that he/she voted in the same way as the majority of people in his/her party, and opposed to the majority of the voters from the other party.
