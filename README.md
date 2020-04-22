@@ -16,6 +16,7 @@ vote_legislator.role,
 vote_legislator.state, 
 vote_metadata, 
 parsed_date
+
 **Note that vote_metadata contains JSON-formatted data. **
 
 Arrange the voting data in a table, so that in each row you will have one member of Congress, and the table will contain the following columns: Name, Party, State, and roll-number. Note that there are 611 roll numbers in the 1999 data.
